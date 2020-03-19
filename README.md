@@ -1,6 +1,5 @@
 # EmbeddedHC12_Calculator_Simple
 program to dimm the LED lights on CSM-12C128 board as follows:\
-
 (1) Initially turn on the LED 3 and 4; and turn off the LED 1 and 2.\
 (2) Instruct the user to enter the LED 1 light level, 0 to 100 in range.\
 (3) When a user enters the LED 1 light level followed by an 'Enter' (ie. 'Return') key, on a HyperTerminal, dim the LED 1 light to that level. For example, if a user type '17' followed by an 'Enter' key hit on the HyperTerminal, then turn on LED 1 with light level 17%.\
